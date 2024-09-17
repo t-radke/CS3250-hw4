@@ -9,14 +9,8 @@ A Python package implementing Dijkstra's shortest path algorithm and Breadth-Fir
 
 ## Installation
 
-To install the package, clone the repository and use `pip`:
+To install the package use `pip`:
 
 ```bash
-# Clone the repository
-git clone https://github.com/t-radke/CS3250-hw4
-
-# Navigate to the src directory
-cd CS3250-hw4/src
-
 # Install the package
-pip install .
+pip install graphs-tradke==0.0.1
